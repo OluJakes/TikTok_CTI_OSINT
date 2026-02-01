@@ -1,3 +1,9 @@
+![OSINT](https://img.shields.io/badge/OSINT-Threat%20Intelligence-blue)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![SOC Ready](https://img.shields.io/badge/SOC-Ready-green)
+![Defensive Research](https://img.shields.io/badge/Defensive-Research-informational)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # TikTok OSINT-Based Cyber Threat Intelligence (CTI) Assessment
 
 ## 🔎 Executive Overview
@@ -23,7 +29,7 @@ This assessment was designed to answer practical CTI questions relevant to SOC a
 ## 🧭 Scope & Ethical Boundaries
 - **Passive OSINT only** (no scanning, probing, or exploitation)
 - Publicly available sources only
-- No interaction with TikTok systems or users
+- No interaction with TikTok systems or user
 - Conducted strictly for **educational and defensive intelligence purposes**
 
 This mirrors how **threat intelligence teams operate legally and ethically** in enterprise environments.
