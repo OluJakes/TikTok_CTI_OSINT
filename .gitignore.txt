@@ -1,0 +1,6 @@
+*.pcap
+*.log
+*.tmp
+*.cache
+.env
+.DS_Store
