@@ -55,5 +55,5 @@ This project follows:
 
 ---
 
-**Prepared by:** Olu (Olumide Solanke)  
+**Prepared by:** (Olumide Solanke)  
 **Focus Areas:** SOC, Threat Intelligence, Blue Team  
